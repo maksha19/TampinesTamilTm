@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/maksha19/TampinesTamilTm/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/maksha19/TampinesTamilTm/static/js/main.797542ad.chunk.js",
+    "main.js.map": "/maksha19/TampinesTamilTm/static/js/main.797542ad.chunk.js.map",
+    "runtime-main.js": "/maksha19/TampinesTamilTm/static/js/runtime-main.a1918f24.js",
+    "runtime-main.js.map": "/maksha19/TampinesTamilTm/static/js/runtime-main.a1918f24.js.map",
+    "static/js/2.28418692.chunk.js": "/maksha19/TampinesTamilTm/static/js/2.28418692.chunk.js",
+    "static/js/2.28418692.chunk.js.map": "/maksha19/TampinesTamilTm/static/js/2.28418692.chunk.js.map",
+    "static/js/3.6d03b59e.chunk.js": "/maksha19/TampinesTamilTm/static/js/3.6d03b59e.chunk.js",
+    "static/js/3.6d03b59e.chunk.js.map": "/maksha19/TampinesTamilTm/static/js/3.6d03b59e.chunk.js.map",
+    "index.html": "/maksha19/TampinesTamilTm/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/maksha19/TampinesTamilTm/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.28418692.chunk.js.LICENSE.txt": "/maksha19/TampinesTamilTm/static/js/2.28418692.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/maksha19/TampinesTamilTm/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1918f24.js",
+    "static/js/2.28418692.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.797542ad.chunk.js"
+  ]
+}
