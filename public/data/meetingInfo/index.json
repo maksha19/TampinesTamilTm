@@ -1,0 +1,71 @@
+[
+  {
+    "clubName": "Tampines Tamil TMC",
+    "meetingLink": "",
+    "meetingDate": 1627747200000,
+    "meetingStartTime": 1633156545075,
+    "meetingEndTime": 1633156547228,
+    "image": "Tampines_64_1627747200000.jpeg",
+    "id": 1627747200000
+  },
+  {
+    "clubName": "Tampines Tamil TMC",
+    "meetingLink": "",
+    "meetingDate": 1629388800000,
+    "meetingStartTime": 1633156545075,
+    "meetingEndTime": 1633156547228,
+    "image": "Tampines_65_1629388800000.jpeg",
+    "id": 1629388800000
+  },
+  {
+    "clubName": "Tampines Tamil TMC",
+    "meetingLink": "",
+    "meetingDate": 1630771200000,
+    "meetingStartTime": 1633156545075,
+    "meetingEndTime": 1633156547228,
+    "image": "Tampines_66_1630771200000.jpeg",
+    "id": 1630771200000
+  },
+  {
+    "clubName": "Tampines Tamil TMC",
+    "meetingLink": "",
+    "meetingDate": 1631808000000,
+    "meetingStartTime": 1633156545075,
+    "meetingEndTime": 1633156547228,
+    "image": "Tampines_67_1631808000000.jpeg",
+    "id": 1631808000000
+  },
+  {
+    "clubName": "Po",
+    "meetingLink": "",
+    "meetingDate": 1633156542596,
+    "meetingStartTime": 1633156545075,
+    "meetingEndTime": 1633156547228,
+    "image": null,
+    "id": 1633156550187
+  },
+  {
+    "id": 1634095441297,
+    "clubId": "081098",
+    "clubName": "Tam pines Tamil TMC",
+    "meetingDate": 1634268197000,
+    "meetingStartTime": 1634123726000,
+    "meetingEndTime": 1634131838000,
+    "image": "",
+    "meetingLink": "Zoom.us",
+    "contactName": "Mani",
+    "contactNumber": "9876543"
+  },
+  {
+    "id": 1634115110250,
+    "clubId": "0821690",
+    "clubName": "Tampines Tamil TMC",
+    "meetingDate": 1634287848000,
+    "meetingStartTime": 1634122856000,
+    "meetingEndTime": 1634131808000,
+    "image": "Tampines_Tamil_TMC_1634115110250.jpeg",
+    "meetingLink": "Zoom.us ",
+    "contactName": "6583135769",
+    "contactNumber": "Manikandan"
+  }
+]
