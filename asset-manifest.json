@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/TampinesTamilTm/static/css/main.218ecada.chunk.css",
-    "main.js": "/TampinesTamilTm/static/js/main.26438054.chunk.js",
-    "main.js.map": "/TampinesTamilTm/static/js/main.26438054.chunk.js.map",
-    "runtime-main.js": "/TampinesTamilTm/static/js/runtime-main.894f9472.js",
-    "runtime-main.js.map": "/TampinesTamilTm/static/js/runtime-main.894f9472.js.map",
-    "static/js/2.28418692.chunk.js": "/TampinesTamilTm/static/js/2.28418692.chunk.js",
-    "static/js/2.28418692.chunk.js.map": "/TampinesTamilTm/static/js/2.28418692.chunk.js.map",
-    "static/js/3.6d03b59e.chunk.js": "/TampinesTamilTm/static/js/3.6d03b59e.chunk.js",
-    "static/js/3.6d03b59e.chunk.js.map": "/TampinesTamilTm/static/js/3.6d03b59e.chunk.js.map",
+    "main.css": "/TampinesTamilTm/static/css/main.09c96e26.chunk.css",
+    "main.js": "/TampinesTamilTm/static/js/main.cdd7869a.chunk.js",
+    "main.js.map": "/TampinesTamilTm/static/js/main.cdd7869a.chunk.js.map",
+    "runtime-main.js": "/TampinesTamilTm/static/js/runtime-main.291b5b9d.js",
+    "runtime-main.js.map": "/TampinesTamilTm/static/js/runtime-main.291b5b9d.js.map",
+    "static/css/2.4659568d.chunk.css": "/TampinesTamilTm/static/css/2.4659568d.chunk.css",
+    "static/js/2.550e1ab5.chunk.js": "/TampinesTamilTm/static/js/2.550e1ab5.chunk.js",
+    "static/js/2.550e1ab5.chunk.js.map": "/TampinesTamilTm/static/js/2.550e1ab5.chunk.js.map",
+    "static/js/3.90195983.chunk.js": "/TampinesTamilTm/static/js/3.90195983.chunk.js",
+    "static/js/3.90195983.chunk.js.map": "/TampinesTamilTm/static/js/3.90195983.chunk.js.map",
     "index.html": "/TampinesTamilTm/index.html",
-    "static/css/main.218ecada.chunk.css.map": "/TampinesTamilTm/static/css/main.218ecada.chunk.css.map",
-    "static/js/2.28418692.chunk.js.LICENSE.txt": "/TampinesTamilTm/static/js/2.28418692.chunk.js.LICENSE.txt",
-    "static/media/tm_logo.76f333c1.jpeg": "/TampinesTamilTm/static/media/tm_logo.76f333c1.jpeg"
+    "static/css/2.4659568d.chunk.css.map": "/TampinesTamilTm/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.09c96e26.chunk.css.map": "/TampinesTamilTm/static/css/main.09c96e26.chunk.css.map",
+    "static/js/2.550e1ab5.chunk.js.LICENSE.txt": "/TampinesTamilTm/static/js/2.550e1ab5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.894f9472.js",
-    "static/js/2.28418692.chunk.js",
-    "static/css/main.218ecada.chunk.css",
-    "static/js/main.26438054.chunk.js"
+    "static/js/runtime-main.291b5b9d.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.550e1ab5.chunk.js",
+    "static/css/main.09c96e26.chunk.css",
+    "static/js/main.cdd7869a.chunk.js"
   ]
 }
